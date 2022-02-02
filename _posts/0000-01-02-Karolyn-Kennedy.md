@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "b o y"
 ---
-<img src="boy.jpg" tabindex="0" border="3"/>	
-Use the left arrow to go back!
+body: <img src="boy.jpg" tabindex="0" border="1">	
+
